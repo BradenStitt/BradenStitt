@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I'm Braden! 👋
+
+<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=BradenStitt&theme=radical&show_icons=true" /> 
+
+<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradenStitt&layout=compact" /> 
 
 
 My name is Braden and I'm a computer science student from California.
