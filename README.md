@@ -1,6 +1,8 @@
 ![Braden Stitt · Software engineer](assets/profile-banner.png)
 
-I started with a 25-minute Pomodoro timer. These days I'm building software that takes an order all the way from checkout to a finished film, including what happens when a scene fails halfway through.
+I started with a 25-minute Pomodoro timer. Since then I've graduated in computer science, had one exit, and moved to San Francisco.
+
+These days I'm building Your Story Movie, where I work on everything from guest checkout to getting the finished film to the customer.
 
 [Your Story Movie](https://www.yourstorymovie.com) · [LinkedIn](https://www.linkedin.com/in/braden-stitt-394b78235/) · [Email](mailto:stittbraden@gmail.com)
 
