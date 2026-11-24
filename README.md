@@ -1,21 +1,21 @@
-# 💫 About Me:
-My name is Braden and I'm a computer science student from California.<br><br>I aim to deepen my understanding in various areas of technology and product development.<br><br>💬 Reach me by email or LinkedIn! stittbraden@gmail.com
+![Braden Stitt · Software engineer](assets/profile-banner.png)
 
+I started with a 25-minute Pomodoro timer. These days I'm building software that takes an order all the way from checkout to a finished film, including what happens when a scene fails halfway through.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braden-stitt-394b78235/) 
+[Your Story Movie](https://www.yourstorymovie.com) · [LinkedIn](https://www.linkedin.com/in/braden-stitt-394b78235/) · [Email](mailto:stittbraden@gmail.com)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=BradenStitt&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BradenStitt&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BradenStitt&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Selected work
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**[Your Story Movie ↗](https://www.yourstorymovie.com)**<br>
+Personalized animated films. I've worked on guest checkout, name pronunciation, and getting finished films to customers automatically.
 
----
-[![](https://visitcount.itsvg.in/api?id=BradenStitt&icon=0&color=10)](https://visitcount.itsvg.in)
+**[gitmem ↗](https://github.com/BradenStitt/gitmem)**<br>
+Version-controlled memory for AI agents. Agents can save structured context and pick up where they left off across sessions.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**[Vanish ↗](https://github.com/BradenStitt/Vanish)**<br>
+Blurs bystanders in photos and video while keeping the main subject visible. Built with Florence-2 and SAM 2.
+
+**[AG-UI Protocol Demo ↗](https://github.com/BradenStitt/AG-UI-Protocol-Demo)**<br>
+An example of connecting a Python agent to a React app using PydanticAI, CopilotKit, and AG-UI.
+
+[My 25-minute timer ↗](https://github.com/BradenStitt/Pomodoro-App)
